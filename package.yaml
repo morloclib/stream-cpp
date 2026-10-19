@@ -1,0 +1,14 @@
+name: stream-cpp
+version: 0.1.0
+homepage: null
+synopsis: C++ implementations for the stream module
+description: Native drivers for folds, statistics over pulls, parallel statistics and external sorting.
+category: data
+license: MIT
+author: "Zebulun Arendsee"
+maintainer: "z@morloc.io"
+github: null
+bug-reports: null
+expose:
+  cpp:
+    - stream.hpp
